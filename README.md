@@ -14,17 +14,17 @@ This project implements a multi-hop data architecture (Medallion Architecture) t
 
 Below is the high-level architecture of the Data Lakehouse:
 
-![Architecture](screenshots/architecture.png)
+![Architecture](screenshots/aws%20s3%20bucket.jpg)
 
 ## 📊 Dashboards & Analytics
 
 We leverage the Gold layer data to power insightful dashboards for business stakeholders. 
 
 ### Sales Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpg)
 
 ### Data Catalog
-![Catalog](screenshots/catalog.png)
+![Catalog](screenshots/databricks%20catalog.jpg)
 
 ## 📁 Project Structure
 
